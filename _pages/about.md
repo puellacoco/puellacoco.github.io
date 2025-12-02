@@ -12,8 +12,8 @@ redirect_from:
 }
 </style>
 
-<div class="cv-body">
-
+<div class="cv-body" markdown="1">
+  
 Hi there! I am a Ph.D. student in the Department of Electronic and Electrical Engineering at Ewha Womans University, under the supervision of Professor Ji-Hoon Kim.
 
 My research centers on developing hardware-driven solutions for energy-efficient, high-performance neural network acceleration, with a particular focus on in-memory processing techniques for large-scale models.
