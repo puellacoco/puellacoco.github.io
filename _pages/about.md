@@ -1,3 +1,7 @@
+<style>
+body .page__content { font-size: 0.9rem; }
+</style>
+
 ---
 permalink: /
 author_profile: true
