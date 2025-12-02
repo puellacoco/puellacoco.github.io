@@ -1,10 +1,3 @@
-<style>
-body .page__content { 
-  font-size: 0.90rem;
-  line-height: 1.45;
-}
-</style>
-
 ---
 permalink: /
 author_profile: true
