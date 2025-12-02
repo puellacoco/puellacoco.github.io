@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Sujin Kim"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "ujin Kim"
+description              : &description "Sujin Kim's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,9 +28,9 @@ author:
   # pronouns         : # example: "she/her"  
   bio              : "phd candidate"
   location         : "Seoul, KR"
-  employer         : "Digital System Architecture Lab(DSAL)"
+  employer         : "DSAL(HYU)"
   uri              : # URL
-  email            : "sujin.k {at} ewha {dot} ac {dot} kr" 
+  email            : "sujin.k.ewha.ac.kr" 
 
   # Academic websites
   academia         : # "https://dsa.hanyang.ac.kr/"
@@ -51,7 +51,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  github           : "https://github.com/puellacoco"
+  github           : "puellacoco"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : puellathecoco
+  linkedin         : "puellathecoco"
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
@@ -221,18 +221,21 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  # all:
+  #   output: true
+  #   permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
