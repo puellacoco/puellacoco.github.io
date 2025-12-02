@@ -5,6 +5,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+.cv-body {
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+</style>
+
+<div class="cv-body">
 
 Hi there! I am a Ph.D. student in the Department of Electronic and Electrical Engineering at Ewha Womans University, under the supervision of Professor Ji-Hoon Kim.
 
