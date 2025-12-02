@@ -19,17 +19,17 @@ Visit my **Research/Project** section to learn more about my ongoing work and ex
 
 ---
 
-<h1 style="text-align: center;">Education</h1>
+<h1 id="education" style="text-align: center;">Education</h1>
 
-**Ewha Womans University** — *Combined M.S. & Ph.D. Course of Electronic and Electrical Engineering*  
+Ewha Womans University — *Combined M.S. & Ph.D. Course of Electronic and Electrical Engineering*  
 2020–2026 (Expected)
 
-**Ewha Womans University** — *Bachelor of Electronic and Electrical Engineering*  
+Ewha Womans University — *Bachelor of Electronic and Electrical Engineering*  
 2014–2019
 
 ---
 
-<h1 style="text-align: center;">Professional Experience</h1>
+<h1 id="experience" style="text-align: center;">Professional Experience</h1>
 
 **Research / Development Intern**, Acceleration Team, *D.notitia* — *Seoul, Korea*  
 Oct 2023 – Aug 2024  
@@ -57,38 +57,38 @@ Jan 2015 – May 2015
 
 ---
 
-<h1 style="text-align: center;">Research / Project</h1>
+<h1 id="projects" style="text-align: center;">Research / Project</h1>
 
-**Vector Search Algorithm for Filtering and its Acceleration** (2024 – current)
+Vector Search Algorithm for Filtering and its Acceleration (2024 – current)
 
-**Hardware Acceleration for MoE-based LLM** (2024 – current)
+Hardware Acceleration for MoE-based LLM (2024 – current)
 
-**Memory-Centric Architecture Using the Reconfigurable PIM Devices** (2023 – current)  
+Memory-Centric Architecture Using the Reconfigurable PIM Devices (2023 – current)  
 Project leading student. Domain-specific PIM architecture, C++-based PIM simulator development (Integrable with gem5)
 
-**SK Hynix–Ewha Womans University Cooperation Project** (Sep 2021 – Sep 2022)  
+SK Hynix–Ewha Womans University Cooperation Project (Sep 2021 – Sep 2022)  
 Project leading student. Reconfigurable System, functional safety (*28nm taped-out*)
 
-**Center for Integrated Smart Sensors (2020)**  
+Center for Integrated Smart Sensors (2020)  
 ML-based humidity and temperature calibration system for heterogeneous MOx sensor array in ppm-level BTEX monitoring
 
-**Artificial Intelligence Semiconductor Design Competition** (Apr 2020 – Dec 2020)  
+Artificial Intelligence Semiconductor Design Competition (Apr 2020 – Dec 2020)  
 Design of DMA (Direct memory access), network-on-chip design
 
-**Standardization for RF Beamforming Wireless Power Transmission** (Feb 2019 – Oct 2019)  
+Standardization for RF Beamforming Wireless Power Transmission (Feb 2019 – Oct 2019)  
 Communication protocol standards for wireless power transfer. Presented at IEC TC100 TA15, Shanghai
 
-**Firmware development for wireless power transfer SoC** (Feb 2019 – Oct 2019)
+Firmware development for wireless power transfer SoC (Feb 2019 – Oct 2019)
 
-**Capstone Design for Electrical Engineering** (Apr 2017 – Dec 2017)  
+Capstone Design for Electrical Engineering (Apr 2017 – Dec 2017)  
 *Braille Actuator Device with Machine Learning Algorithm*. Won 1st prize for Capstone design award
 
-**Implementation of Network Coding Algorithm with Raspberry Pi** (Mar 2016 – Dec 2017)  
+Implementation of Network Coding Algorithm with Raspberry Pi (Mar 2016 – Dec 2017)  
 Implemented various network-coding algorithms using Raspberry Pis
 
 ---
 
-<h1 style="text-align: center;">Teaching & Mentoring Experience</h1>
+<h1 id="teaching" style="text-align: center;">Teaching & Mentoring Experience</h1>
 
 2021 Fall — Basic Circuit Laboratory (TA)  
 2021 Spring — Advanced Programming for Electronics Engineering (TA), Integrated Circuit Design (TA)  
@@ -98,25 +98,25 @@ Implemented various network-coding algorithms using Raspberry Pis
 
 ---
 
-<h1 style="text-align: center;">Skills</h1>
+<h1 id="skills" style="text-align: center;">Skills</h1>
 
-**Programming Languages:**  
+Programming Languages:
 C, C++, Python, Verilog/SystemVerilog, Perl, script languages
 
-**Hardware Experience:**  
+Hardware Experience:
 FPGA (Xilinx Alveo series, Zynq series ARM Cortex-M series, AVR series, Raspberry Pi series),  
 Tape-out (Samsung 28nm, tsmc 65nm, tsmc 180nm)
 
-**Application Software:**  
+Application Software:
 Simulation tools (gem5, Verilator), Analysis tools (NVIDIA Nsys), ML engines (TensorRT/TensorRT-LLM),  
 MATLAB, EDA tools (VCS, Verdi, Design Compiler, ICC2, Formality, TestMAX), Vivado
 
-**Language:**  
+Language:
 Korean (Native), English (Professional working proficiency), Japanese (Professional working proficiency)
 
 ---
 
-<h1 style="text-align: center;">Achievement</h1>
+<h1 id="achievement" style="text-align: center;">Achievement</h1>
 
 Nahyeon Kim, **Sujin Kim**, Haechannuri Noh, Min Jung, Huijin Roh and Ji-Hoon Kim. “Optimizing Similarity Calculations in Processing-In-Memory: A Simulation Approach”, ICEIC 2025
 
@@ -139,4 +139,4 @@ Jungmin Kwon, Sunwoo Cho, **Sujin Kim**, Yoonji Park, Hyunggon Park. “Implemen
 
 <h1 style="text-align: center;">Extracurricular activities</h1>
 
-**2018** — Gap year in Japan (Tokyo)
+2018 — Gap year in Japan (Tokyo)
