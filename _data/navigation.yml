@@ -1,20 +1,20 @@
 # The following is the order of the links in the header of the website.
 
 main:
-  - title: "Education"
-    url: /#education
+  - title: "introduction"
+    url: /
 
-  - title: "Experience"
+  - title: "Experiences"
     url: /#experience
 
   - title: "Research / Project"
     url: /#projects
 
-  - title: "Teaching"
+  - title: "Teaching / Skills"
     url: /#teaching
 
-  - title: "Skills"
-    url: /#skills
+  # - title: "Skills"
+  #   url: /#skills
 
   - title: "Achievement"
     url: /#achievement
