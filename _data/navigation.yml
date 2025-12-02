@@ -1,36 +1,24 @@
 # The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /all/
-    
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Education"
+    url: /#education
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Experience"
+    url: /#experience
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  - title: "CV"
+  - title: "Research / Project"
+    url: /#projects
+
+  - title: "Teaching"
+    url: /#teaching
+
+  - title: "Skills"
+    url: /#skills
+
+  - title: "Achievement"
+    url: /#achievement
+
+  # cv
+  - title: "CV (PDF)"
     url: https://www.dropbox.com/scl/fi/g4kx0fwo79y5t16rpn9nx/CV_SujinKim.pdf?rlkey=tm2eaq577v4csgm60l583hwbd&e=1&dl=0
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  # - title: "Guide"
-  #   url: /markdown/
