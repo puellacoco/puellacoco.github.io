@@ -1,5 +1,8 @@
 <style>
-body .page__content { font-size: 0.9rem; }
+body .page__content { 
+  font-size: 0.90rem;
+  line-height: 1.45;
+}
 </style>
 
 ---
