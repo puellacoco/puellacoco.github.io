@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Sujin Kim"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Sujin Kim"
 description              : &description "Sujin Kim's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
