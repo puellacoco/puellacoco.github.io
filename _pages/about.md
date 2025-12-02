@@ -146,3 +146,4 @@ Jungmin Kwon, Sunwoo Cho, **Sujin Kim**, Yoonji Park, Hyunggon Park. “Implemen
 <h1 style="text-align: center;">Extracurricular activities</h1>
 
 2018 — Gap year in Japan (Tokyo)
+</div>
