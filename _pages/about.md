@@ -14,13 +14,12 @@ I bring extensive experience in designing and training deep neural networks, as 
 
 Visit my **Research/Project** section to learn more about my ongoing work and explore how I’m tackling some of the most pressing challenges in AI hardware.
 
-📧 sujin.k@ewha.ac.kr  
-🔗 [LinkedIn](https://www.linkedin.com)  
-🔗 [Digital System Architecture Lab (DSAL)](https://dsal.ewha.ac.kr)
+📧 sujin.k {at} ewha {dot} ac {dot} kr  
+🔗 [Digital System Architecture Lab (DSAL)](https://dsa.hanyang.ac.kr)
 
 ---
 
-## Education
+<h2 style="text-align: center;">Education</h2>
 
 **Ewha Womans University** — *Combined M.S. & Ph.D. Course of Electronic and Electrical Engineering*  
 2020–2026 (Expected)
@@ -30,7 +29,7 @@ Visit my **Research/Project** section to learn more about my ongoing work and ex
 
 ---
 
-## Professional Experience
+<h2 style="text-align: center;">Professional Experience</h2>
 
 **Research / Development Intern**, Acceleration Team, *D.notitia* — *Seoul, Korea*  
 Oct 2023 – Aug 2024  
@@ -58,7 +57,7 @@ Jan 2015 – May 2015
 
 ---
 
-## Research / Project
+<h2 style="text-align: center;">Research / Project</h2>
 
 **Vector Search Algorithm for Filtering and its Acceleration** (2024 – current)
 
@@ -89,7 +88,7 @@ Implemented various network-coding algorithms using Raspberry Pis
 
 ---
 
-## Teaching & Mentoring Experience
+<h2 style="text-align: center;">Teaching & Mentoring Experience</h2>
 
 2021 Fall — Basic Circuit Laboratory (TA)  
 2021 Spring — Advanced Programming for Electronics Engineering (TA), Integrated Circuit Design (TA)  
@@ -99,7 +98,7 @@ Implemented various network-coding algorithms using Raspberry Pis
 
 ---
 
-## Skills
+<h2 style="text-align: center;">Skills</h2>
 
 **Programming Languages:**  
 C, C++, Python, Verilog/SystemVerilog, Perl, script languages
@@ -117,7 +116,7 @@ Korean (Native), English (Professional working proficiency), Japanese (Professio
 
 ---
 
-## Achievement
+<h2 style="text-align: center;">Achievement</h2>
 
 Nahyeon Kim, **Sujin Kim**, Haechannuri Noh, Min Jung, Huijin Roh and Ji-Hoon Kim. “Optimizing Similarity Calculations in Processing-In-Memory: A Simulation Approach”, ICEIC 2025
 
@@ -138,6 +137,6 @@ Jungmin Kwon, Sunwoo Cho, **Sujin Kim**, Yoonji Park, Hyunggon Park. “Implemen
 
 ---
 
-## Extracurricular activities
+<h2 style="text-align: center;">Extracurricular activities</h2>
 
 **2018** — Gap year in Japan (Tokyo)
