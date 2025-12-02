@@ -19,7 +19,7 @@ Visit my **Research/Project** section to learn more about my ongoing work and ex
 
 ---
 
-<h2 style="text-align: center;">Education</h2>
+<h1 style="text-align: center;">Education</h1>
 
 **Ewha Womans University** — *Combined M.S. & Ph.D. Course of Electronic and Electrical Engineering*  
 2020–2026 (Expected)
@@ -29,7 +29,7 @@ Visit my **Research/Project** section to learn more about my ongoing work and ex
 
 ---
 
-<h2 style="text-align: center;">Professional Experience</h2>
+<h1 style="text-align: center;">Professional Experience</h1>
 
 **Research / Development Intern**, Acceleration Team, *D.notitia* — *Seoul, Korea*  
 Oct 2023 – Aug 2024  
@@ -57,7 +57,7 @@ Jan 2015 – May 2015
 
 ---
 
-<h2 style="text-align: center;">Research / Project</h2>
+<h1 style="text-align: center;">Research / Project</h1>
 
 **Vector Search Algorithm for Filtering and its Acceleration** (2024 – current)
 
@@ -88,7 +88,7 @@ Implemented various network-coding algorithms using Raspberry Pis
 
 ---
 
-<h2 style="text-align: center;">Teaching & Mentoring Experience</h2>
+<h1 style="text-align: center;">Teaching & Mentoring Experience</h1>
 
 2021 Fall — Basic Circuit Laboratory (TA)  
 2021 Spring — Advanced Programming for Electronics Engineering (TA), Integrated Circuit Design (TA)  
@@ -98,7 +98,7 @@ Implemented various network-coding algorithms using Raspberry Pis
 
 ---
 
-<h2 style="text-align: center;">Skills</h2>
+<h1 style="text-align: center;">Skills</h1>
 
 **Programming Languages:**  
 C, C++, Python, Verilog/SystemVerilog, Perl, script languages
@@ -116,7 +116,7 @@ Korean (Native), English (Professional working proficiency), Japanese (Professio
 
 ---
 
-<h2 style="text-align: center;">Achievement</h2>
+<h1 style="text-align: center;">Achievement</h1>
 
 Nahyeon Kim, **Sujin Kim**, Haechannuri Noh, Min Jung, Huijin Roh and Ji-Hoon Kim. “Optimizing Similarity Calculations in Processing-In-Memory: A Simulation Approach”, ICEIC 2025
 
@@ -137,6 +137,6 @@ Jungmin Kwon, Sunwoo Cho, **Sujin Kim**, Yoonji Park, Hyunggon Park. “Implemen
 
 ---
 
-<h2 style="text-align: center;">Extracurricular activities</h2>
+<h1 style="text-align: center;">Extracurricular activities</h1>
 
 **2018** — Gap year in Japan (Tokyo)
